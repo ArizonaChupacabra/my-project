@@ -1,1 +1,2 @@
 Fouth file text
+This file has been modified in the feature branch
